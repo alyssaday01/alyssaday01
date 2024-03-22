@@ -1,4 +1,4 @@
-# Alyssa Day README
+# Alyssa Day
 ## Overview
 
 This repository showcases my journey as a Junior at UNC Charlotte, majoring in Data Science with a minor in
