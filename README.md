@@ -1,18 +1,11 @@
 # Alyssa Day
 ## Overview
 
-This repository showcases my journey as a Junior at UNC Charlotte, majoring in Data Science with a minor in
-Artificial Intelligence and International Studies. As a passionate advocate for the intersection of technology
-and global affairs, I aim to leverage my skills in data science and AI to make a significant impact on
-international relations and advance machine learning in this domain.
+Data Science student with a focus on predictive analytics and urban research. Proficient in Python, SQL, and machine learning techniques, I enjoy creating impactful projects that leverage data to solve meaningful societal problems, such as crime prevention and housing policy.
 
 ## About Me
 
-I am a current Junior at UNC Charlotte, pursuing a major in Data Science with a minor in Artificial Intelligence
-and International Studies. With a solid foundation in both Java and Python, I am keen on expanding my knowledge
-to encompass other data processing languages and cutting-edge technologies in the field of AI. My academic pursuits
-are driven by a deep-seated passion for utilizing technology and data science to address global challenges and
-contribute to positive changes in international relations.
+As a senior at UNC Charlotte graduating in May 2024, I am majoring in Data Science with minors in Artificial Intelligence and International Studies. Skilled in Java and Python, I aspire to apply advanced data science methods to solve complex global problems and foster positive impact worldwide.
 
 ## Goals
 
@@ -26,7 +19,7 @@ contribute to positive changes in international relations.
 ## Contact
 
 - Email: alyssaday2003@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alyssaday0328
+- LinkedIn: https://www.linkedin.com/in/alyssaday01
 
 <!---
 alyssaday01/alyssaday01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
