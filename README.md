@@ -5,7 +5,7 @@ Data Science student with a focus on predictive analytics and urban research. Pr
 
 ## About Me
 
-As a senior at UNC Charlotte graduating in May 2024, I am majoring in Data Science with minors in Artificial Intelligence and International Studies. Skilled in Java and Python, I aspire to apply advanced data science methods to solve complex global problems and foster positive impact worldwide.
+As a senior at UNC Charlotte graduating in May 2025, I am majoring in Data Science with minors in Artificial Intelligence and International Studies. Skilled in Java, Python, and SQL, I aspire to apply advanced data science methods to solve complex global problems and foster positive impact worldwide.
 
 ## Goals
 
