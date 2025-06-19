@@ -18,11 +18,11 @@ I earned a Bachelor of Science in Data Science from UNC Charlotte in Spring 2025
 
 ## Goals
 
-- Expand Expertise: Continuously improve skills in data science, cloud computing, and AI tools to address evolving challenges.
+- **Expand Expertise:** Continuously improve skills in data science, cloud computing, and AI tools to address evolving challenges.
 
-- Bridge Disciplines: Integrate data science, artificial intelligence, and international studies for innovative, interdisciplinary solutions.
+- **Bridge Disciplines:** Integrate data science, artificial intelligence, and international studies for innovative, interdisciplinary solutions.
 
-- Global Impact: Leverage data-driven insights to support diplomacy, sustainability, and equitable development worldwide.
+- **Global Impact:** Leverage data-driven insights to support diplomacy, sustainability, and equitable development worldwide.
 
 ## Contact
 
